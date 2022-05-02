@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-api-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-api-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-chrome-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-chrome-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-chromium-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-chromium-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-devtools-v85-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-devtools-v85-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-devtools-v95-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-devtools-v95-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-devtools-v96-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-devtools-v96-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-devtools-v97-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-devtools-v97-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-edge-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-edge-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-firefox-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-firefox-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-firefox-xpi-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-firefox-xpi-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-http-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-http-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-ie-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-ie-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-java-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-java-4.1.2.zip"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-java-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-json-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-json-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-opera-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-opera-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-remote-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-remote-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-safari-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-safari-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-support-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mS/Documents/Mona_QA_jars/Selenium_jar/selenium-support-4.1.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
